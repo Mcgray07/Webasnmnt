@@ -11,7 +11,7 @@ def load_clustered_data():
 def main():
     st.markdown("McGray Chigonero R204742D HDSC")
 
-    st.title("NEWS ARTICLE CLUSTERING")
+    st.title("NEWS CLUSTERING ASSIGNMENT")
 
     # Load the clustered dataframe
     data = load_clustered_data()
